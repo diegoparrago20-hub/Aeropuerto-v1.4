@@ -25,10 +25,10 @@ La práctica implementa:
 
 ```text
               Persona
-                  |
-               Empleado
                /     \
-           Piloto   Sobrecargo
+          Pasajero   Empleado
+                      /     \
+                  Piloto   Sobrecargo
 ```
 
 ## Clases
