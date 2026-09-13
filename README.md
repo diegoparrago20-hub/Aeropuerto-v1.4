@@ -24,7 +24,7 @@ La práctica implementa:
 ## Estructura de herencia
 
 ```text
-              Persona
+               Persona
                /     \
           Pasajero   Empleado
                       /     \
